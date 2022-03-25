@@ -1,5 +1,5 @@
-#
-Introduction
+
+# **Introduction**
 
 A Smart Switch is an system that controls the accessories so as to activate home appliances and to permit for various ways that of preparation, the smart switch system wants a mechanism  for communication between the  various devices withinthe system, and for coordination among the varied processes running on such devices.
 
