@@ -1,5 +1,6 @@
 # Swot Analysis
-[SWOT M2.pptx](https://github.com/naveenreddiedodla/Smart-Switch/files/8354821/SWOT.M2.pptx)
+![swot analysis](https://user-images.githubusercontent.com/47137831/160228006-07574b48-62bc-4bbf-951b-1f6777abde99.png)
+
 
 
 
