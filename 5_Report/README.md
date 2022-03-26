@@ -90,3 +90,9 @@
 
 ![Screenshot (250)](https://user-images.githubusercontent.com/98865009/160227491-9d9e2d8c-5107-4333-991c-24014eb31101.png)
 
+
+## Reference
+## https://www.toyamaworld.com/post/smart-switches-your-gateway-to-home-automation
+
+## https://rcciit.org/students_projects/projects/ece/2018/GR30.pdf
+
