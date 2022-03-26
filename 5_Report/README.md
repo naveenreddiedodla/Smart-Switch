@@ -17,3 +17,6 @@
 ## 4.Test plan and Output
 ### High level test plan
 ### Low level test plan
+
+# About the Smart Switch
+## 1.1 Description:
