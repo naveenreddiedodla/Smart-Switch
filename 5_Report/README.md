@@ -27,3 +27,4 @@
 ### The Smart Switch is known as application of IOT based Home automation, with the use of new technology, to make the
 ### domestic activities more convenient, comfortable, secure and economical. These switches can be controlled remotely. It   saves   energy   and   makes   the   operation   of   assorted   accessories of home application   additional   convenient.   It involves the automatic dominance of electrical devices in homes or perhaps remotely through wireless communication. 
 ## 1.2 Features:
+
