@@ -1,3 +1,10 @@
+# Swot Analysis
+[SWOT M2.pptx](https://github.com/naveenreddiedodla/Smart-Switch/files/8354821/SWOT.M2.pptx)
+
+
+
+
+
 # 5W's 1H
 ![5wh1](https://user-images.githubusercontent.com/98865218/160111347-1eddd85a-bf31-40ab-bf92-4d76d3fbc30a.png)
 
